@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\donia\\source\\repos\\Demo.Mvc.G01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF31388-93F1-4746-9375-A83ADFEE77A1}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\donia\\source\\repos\\demo.mvc.g01\\demo.dal\\contexts\\mvcg01dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF31388-93F1-4746-9375-A83ADFEE77A1}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\contexts\\mvcg01dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF31388-93F1-4746-9375-A83ADFEE77A1}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\donia\\source\\repos\\demo.mvc.g01\\demo.dal\\modeles\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF31388-93F1-4746-9375-A83ADFEE77A1}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\modeles\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MvcG01DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\donia\\source\\repos\\Demo.Mvc.G01\\Demo.DAL\\Contexts\\MvcG01DbContext.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Contexts\\MvcG01DbContext.cs",
+              "ToolTip": "C:\\Users\\donia\\source\\repos\\Demo.Mvc.G01\\Demo.DAL\\Contexts\\MvcG01DbContext.cs*",
+              "RelativeToolTip": "Demo.DAL\\Contexts\\MvcG01DbContext.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:48:50.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\donia\\source\\repos\\Demo.Mvc.G01\\Demo.DAL\\Modeles\\Department.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Modeles\\Department.cs",
+              "ToolTip": "C:\\Users\\donia\\source\\repos\\Demo.Mvc.G01\\Demo.DAL\\Modeles\\Department.cs",
+              "RelativeToolTip": "Demo.DAL\\Modeles\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:36:08.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
